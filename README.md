@@ -144,4 +144,4 @@ I created a Storage Account called `rideaucanalstorage` with the container `hist
 
 ## AI Tools Disclosure
 
-I used Copilot to create dashboard, to debug (when I was attempting to deploy to App Service), and to summarize sections of the report, such as the overview or troubleshooting section. The reason was that I wanted to incorporate the possible troubleshooting scenarios that I did not experience myself, but others might. I also tried to paraphrase the summaries to reflect more closely my thoughts.
+I used Copilot to create dashboard and refactor the sensor generation code. I also used to debug (when I was attempting to deploy to App Service), and to summarize sections of the report, such as the overview or troubleshooting section.
