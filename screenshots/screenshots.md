@@ -39,7 +39,8 @@
 ## Running Application
 
 - Dashboard
-![Dashboard](image-12.png)
+![Dashboard](image-17.png)
+![alt text](image-18.png)
 
 - IOT Hub
 ![Hub](image-13.png)
